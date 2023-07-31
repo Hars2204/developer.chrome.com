@@ -1,5 +1,5 @@
 ---
-layout: "layouts/doc-post.njk"
+laout: "layouts/doc-post.njk"
 title: "Manifest - Version"
 seoTitle: "Chrome Extensions Manifest: version"
 date: 2013-05-12
